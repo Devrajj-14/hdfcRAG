@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+faiss-cpu
+llama-cpp-python
+pypdf
+python-docx
+requests
+pandas
+openpyxl
